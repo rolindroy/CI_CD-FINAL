@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>"Warm Welcome to DevOps Docker World" </title>
+    <title>"Welcome to DevOps Docker World" </title>
   </head>
   <body bgcolor=white>
 
@@ -10,7 +10,7 @@
           <img src="polaris.jpeg">
         </td>
         <td>
-          <h1>"Warm Welcome to DevOps World - Practice Team"</h1>
+          <h1>"Welcome to DevOps World - Practice Team"</h1>
         </td>
       </tr>
     </table>
